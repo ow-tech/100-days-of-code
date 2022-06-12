@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Jun 12, 2022
+##### (Prep for Javascript algothrithms and Data Structures)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Basic Javascript, lots of challenges..
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Starting out were easy, and felt they were unnecessary, but only to start spending 20 - 1 hour debugging. Patience and drive has seen me through the last 10 + hrs.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [No links])
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
