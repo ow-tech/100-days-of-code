@@ -9,7 +9,7 @@
 
 **Link to work:** [No links])
 
-### Day 2: June 13, 2021 (Example 2)
+### Day 2: June 13, 2022 (Example 2)
 ##### (from ES5 to ES6 Javascript algothrithms and Data Structures)
 
 **Today's Progress**: Class syntax, getters, setters, Export and Import, Export default and import for the same. Promises.
@@ -18,7 +18,7 @@
 
 
 
-### Day 3: June 14, 2021
+### Day 3: June 14, 2022
 ##### (Reqular Expressions Javascript algothrithms and Data Structures)
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -26,14 +26,14 @@
 **Link(s) to work**
 
 
-### Day 4: June 15, 2021
+### Day 4: June 15, 2022
 ##### (Debuging skills Javascript algothrithms and Data Structures)
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts** Reinforcing and understanding that most of my errors are actually almost each programmers errors
 **Link(s) to work**
 
-### Day 5: June 15, 2021
+### Day 5: June 15, 2022
 ##### (Begginer Algothrithms Javascript algothrithms and Data Structures)
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -42,3 +42,10 @@
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 6: June 16, 2022
+##### (Begginer Algothrithms Javascript algothrithms and Data Structures)
+**Today's Progress**:Algorithm Scripting
+
+**Thoughts**Splice and Slice, challenges aint easy as anticipated.
+**Link(s) to work**
