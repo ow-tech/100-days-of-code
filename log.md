@@ -49,3 +49,10 @@
 
 **Thoughts**Splice and Slice, challenges aint easy as anticipated.
 **Link(s) to work**
+
+### Day 7: June 17, 2022
+##### (OOP Javascript algothrithms and Data Structures)
+**Today's Progress**:Algorithm Scripting and Constructor, prototypes
+
+**Thoughts**A learning Curve.
+**Link(s) to work**
