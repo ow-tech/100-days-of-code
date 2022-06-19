@@ -56,3 +56,10 @@
 
 **Thoughts**A learning Curve.
 **Link(s) to work**
+
+### Day 8: June 18, 2022
+##### (finished on OOP Javascript algothrithms and Data Structures)
+**Today's Progress**:Algorithm Scripting and Constructor, prototypes, mixin, supertypes, and Object.prototypes.
+
+**Thoughts**A learning Curve.
+**Link(s) to work**
