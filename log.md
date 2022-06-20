@@ -63,3 +63,9 @@
 
 **Thoughts**A learning Curve.
 **Link(s) to work**
+
+### Day 9: June 19, 2022
+##### (started Functional programmming and Recursive Javascript algothrithms and Data Structures)
+**Today's Progress**:Recursive is not as easy as thought, started by ended up following java tutorial to have a glimpse
+**Thoughts**A learning Curve.
+**Link(s) to work**
