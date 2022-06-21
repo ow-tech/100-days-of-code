@@ -69,3 +69,9 @@
 **Today's Progress**:Recursive is not as easy as thought, started by ended up following java tutorial to have a glimpse
 **Thoughts**A learning Curve.
 **Link(s) to work**
+
+### Day 10: June 20, 2022
+##### (functional programming Javascript algothrithms and Data Structures)
+**Today's Progress**: advantages of not mutating arguments.
+**Thoughts**A learning Curve.
+**Link(s) to work**
