@@ -75,3 +75,11 @@
 **Today's Progress**: advantages of not mutating arguments.
 **Thoughts**A learning Curve.
 **Link(s) to work**
+
+
+### Day 11: June 21, 2022
+##### (finishedFunctional programmming Javascript algothrithms and Data Structures)
+**Today's Progress**:Importance of not mutating arguments
+**Thoughts**A learning Curve.
+**Link(s) to work**
+[currying and partial application](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/introduction-to-currying-and-partial-application)
