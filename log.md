@@ -83,3 +83,29 @@
 **Thoughts**A learning Curve.
 **Link(s) to work**
 [currying and partial application](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/introduction-to-currying-and-partial-application)
+
+
+### Day 12: June 22, 2022
+##### (React Recusive functionality)
+**Today's Progress**: Nested list to show tree nodes.
+**Thoughts**A learning Curve.
+**Link(s) to work**
+
+### Day 13: June 23, 2022
+##### (Bugs and finishing up on children of children nodes)
+**Today's Progress**: attempts to show relation between nodes.
+**Thoughts**A learning Curve.
+**Link(s) to work**
+
+### Day 14: June 24, 2022
+##### (graphql languange introduction)
+**Today's Progress**: fetching data from a qraphql server, writting of schema.
+**Thoughts**A learning Curve.
+**Link(s) to work**
+
+### Day 15: June 25, 2022
+##### (Apollo data source and pagination)
+**Today's Progress**: no much to show of pagination, tommorrow is another day.
+**Thoughts**A learning Curve.
+**Link(s) to work**
+
