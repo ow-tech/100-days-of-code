@@ -109,3 +109,11 @@
 **Thoughts**A learning Curve.
 **Link(s) to work**
 
+
+### Day 16: June 26, 2022
+##### (Apollo pagination)
+**Today's Progress**: finally, cant believe i made it happen.
+**Thoughts**A learning Curve. and activelly was able to implement pagination.
+
+**Link(s) to work** [Pagination of 3 results](https://twitter.com/barasa_mulwa/status/1541543842071166978/photo/1)
+
