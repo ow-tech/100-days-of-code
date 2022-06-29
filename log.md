@@ -117,3 +117,23 @@
 
 **Link(s) to work** [Pagination of 3 results](https://twitter.com/barasa_mulwa/status/1541543842071166978/photo/1)
 
+
+### Day 17: June 27, 2022
+##### (Apollo pagination)
+**Today's Progress**: Mutation of data.
+**Thoughts** After successfully implementing schema and connecting to sqlite in memory using ORM sequelize, I mutated regenaration of api and stored it to the in memory store.
+
+**Link(s) to work** [Pagination of 3 results](https://twitter.com/barasa_mulwa/status/1541543842071166978/photo/1)
+
+
+### Day 18: June 28, 2022
+##### (Recursion with collapsible nodes)
+**Today's Progress**: Mutation of data.
+**Thoughts** Make collapsible component logic from step 2 reusable between different components by using react hooks or HOC.
+Using react context make it so when you click on any last node it will close all nodes in the tree (showing only continent list).
+
+
+**Link(s) to work** [Pagination of 3 results](https://github.com/ow-tech/recursion-family-tree)
+
+
+
