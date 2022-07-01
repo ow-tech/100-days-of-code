@@ -136,4 +136,21 @@ Using react context make it so when you click on any last node it will close all
 **Link(s) to work** [Pagination of 3 results](https://github.com/ow-tech/recursion-family-tree)
 
 
+### Day 19: June 30, 2022
+##### (Intermediate Scripting)
+**Today's Progress**: Done one challenge.
+**Thoughts** Make collapsible component logic from step 2 reusable between different components by using react hooks or HOC.
+Using react context make it so when you click on any last node it will close all nodes in the tree (showing only continent list).
+**Link(s) to work** [Scripting](https://twitter.com/barasa_mulwa/status/1542810112355717120)
+
+### Day 20: July 1, 2022
+##### (Scripting and writting dry code)
+**Today's Progress**: Indepth understanding of problem and solution.
+**Thoughts** Working towards making code dry with every solution.
+
+**Link(s) to work** [Scripting](https://twitter.com/barasa_mulwa/status/1542810112355717120)
+
+
+
+
 
