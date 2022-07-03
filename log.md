@@ -151,6 +151,12 @@ Using react context make it so when you click on any last node it will close all
 **Link(s) to work** [Scripting](https://twitter.com/barasa_mulwa/status/1542810112355717120)
 
 
+### Day 21 -22: July 3, 2022
+##### (Scripting and writting dry code)
+**Today's Progress**: Objects. Objects hasOwnProperty.
+**Thoughts** Working towards making code dry with every solution.
+
+**Link(s) to work** [Scripting](https://twitter.com/barasa_mulwa/status/1543605000412270592/photo/1)
 
 
 
