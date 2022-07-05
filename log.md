@@ -165,5 +165,13 @@ Using react context make it so when you click on any last node it will close all
 
 **Link(s) to work** [Scripting](https://twitter.com/barasa_mulwa/status/1543982599344951297/photo/1)
 
+### Day 24: July 5, 2022
+##### (Scripting and writting dry code)
+**Today's Progress**: Intermediate Scripting no joke.
+**Thoughts** At last, am able to solve a challenge. Need to work on my refactoring though. The joy cant be hidden.
+
+**Link(s) to work** [Scripting](https://twitter.com/barasa_mulwa/status/1544407611616989188)
+
+
 
 
