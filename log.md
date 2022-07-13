@@ -187,7 +187,12 @@ Using react context make it so when you click on any last node it will close all
 
 **Link(s) to work** [Scripting](https://twitter.com/barasa_mulwa/status/1546477859115515904)
 
+### Day 27: July 13, 2022
+##### (Scripting and writting dry code)
+**Today's Progress**: so map() and forEach can totally give u differnt results, whether there is the need to mutate or not mutate array.
+**Thoughts** for just looping through an array/object, forEach is preferable.
 
+**Link(s) to work** [Scripting](https://twitter.com/barasa_mulwa/status/1547209411944488960)
 
 
 
