@@ -196,3 +196,10 @@ Using react context make it so when you click on any last node it will close all
 
 
 
+### Day 28: July 16, 2022
+##### (Scripting and writting dry code)
+**Today's Progress**: every is used to check if all ements in an array met a given criteria.
+**Thoughts** instead of having a loop/forEach and an if statment, every got me covered
+
+**Link(s) to work** [Scripting](https://twitter.com/barasa_mulwa/status/1548254992112316421/photo/1)
+
